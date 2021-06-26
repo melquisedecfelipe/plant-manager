@@ -49,7 +49,7 @@ $ cd plant-manager && yarn
 # Run backend
 $ json-server ./src/services server.json --host 192.168.0.124 --port 3333 --delay 700
 
-# Run frontend
+# Run mobile
 $ expo start
 ```
 
